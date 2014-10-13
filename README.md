@@ -1,4 +1,4 @@
-# Exercise Repo 2
+# Exercise Repo (作業第二代!!)
 
 ## Exercise 7
 
